@@ -76,4 +76,4 @@ INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, 
 
 -- 16- Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece? 
 -- minha namorada sempre me apoia e incentiva a não desistir.
-INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'BEST Girlfriend', 'Jessica Chagas', 'A melhor namorada do mundo', '0');
+INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'BEST Girlfriend', 'talita antunes', 'A melhor namorada do mundo', '0');
